@@ -1,0 +1,40 @@
+
+
+6. Ordinare una pizza
+Tu non hai fame?!
+Dopo una lunga giornata passata al pc, ho proprio voglia di concedermi una bella pizza succulenta!
+Sì, ma quale? Fammi dare un occhio al listino… Va beh, è inutile, tanto alla fine ordino sempre la 
+stessa: una classica prosciutto e funghi. La pizza arriva ancora fumante, chissà se riuscirò a mangiarla tutta!
+Di sicuro se ne avanzo una fetta devo ricordarmi di metterla in frigo, non come l’ultima volta!
+
+
+cosa abbiamo: 
+	-listino pizze
+	-numero pizzeria
+
+1) SE ho finito di lavorare
+	*vai al punto a)
+   ALTRIMENTI
+	*finisci di lavorare
+
+2) Ordinare e mangiare la pizza
+	a)scorro il listino pizze
+	b)ordinerò come al solito una prosciutto e funghi
+3) SE è una prosciutto e funghi
+	c)chiamo la pizzeria
+   ALTRIMENTI
+	d)tornerò al punto a)
+4) Arriva la pizza a casa
+	e)pizza ancora fumante
+	f)aspetto qualche minuto
+	g)inizio a mangiare la pizza
+5) SE avanza la pizza
+	h) la metto in frigo e la mangio il giorno dopo
+   ALTRIMENTI
+	i) fine algoritmo
+
+
+
+
+
+
